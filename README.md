@@ -1,4 +1,4 @@
 # Vite Electron Todo App
 
-Note taking app.
-@TO-DO: ADD To-do functionality.
+Works: Taking notes, Highlighting.
+@TO-DO: ADD To-Do functionality.
